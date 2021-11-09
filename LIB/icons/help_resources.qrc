@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="h">
+    <file>help.jpg</file>
+  </qresource>
+</RCC>

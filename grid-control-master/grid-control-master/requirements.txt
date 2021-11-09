@@ -1,5 +1,0 @@
-WMI==1.4.9
-PyQt5==5.10.1
-pyserial==3.4
-pypiwin32==223
-

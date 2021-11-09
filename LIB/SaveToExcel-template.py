@@ -21,3 +21,8 @@ def saveToExcel(self):
         # print(self.rowToAdd)
         # print(temp)
     print("\tSaving to file: " + str(time.time() - startTime))
+
+
+# MainClass :
+#     # self.appendToExcel = appendToExcel.AppendToExcel("test9.xlsx")
+#     self.writer = pd.ExcelWriter(self.excelFileName, engine='openpyxl')

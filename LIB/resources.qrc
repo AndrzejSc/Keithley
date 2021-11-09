@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/LIB/">
+    <file>icons/help.jpg</file>
+    <file>icons/GradientIcon.ico</file>
+    <file>icons/green-led-on.png</file>
+    <file>icons/led-red-on.png</file>
+    <file>icons/play-button.png</file>
+    <file>icons/stop-button.png</file>
+    <file>icons/refresh.png</file>
+    <file>icons/disconnect.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/save.png</file>
+    <file>icons/resistance.png</file>
+    <file>icons/refreshdata.png</file>
+    <file>icons/temperature.png</file>
+    <file>icons/thermometer.png</file>
+    <file>icons/lifebuoy.png</file>
+    <file>icons/information.png</file>
+  </qresource>
+</RCC>
